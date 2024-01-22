@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6JgQcbvrHds7fHIpLzUq6bgCQMTdnkhsM61GtOQWuK8=",
+  "Source": "DentistSchedulerWebApi",
+  "BasePath": "_content/DentistSchedulerWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
