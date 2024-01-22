@@ -3,4 +3,5 @@
 /DentistSchedulerWebApi/bin/Debug/net6.0
 /DentistSchedulerWebApi/appsettings.Development.json
 /bin
+/obj
 ```
